@@ -1,0 +1,1 @@
+{"message":"Failed to find LinkedIn company url(s) for the submitted domain(s)."}
